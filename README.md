@@ -130,6 +130,6 @@ We will use AI tools throughout the project to speed development, improve qualit
 ## Notes & next steps
 - Keep the repository local-first and privacy-centric. Use AI to accelerate routine developer tasks but keep human review in the loop.
 - Next actions to start coding:
-  1. Initialize Android Studio project (module + Gradle files) if not present
+  1. Initialize Android Studio project (module + Gradle files)
   2. Add CI workflow and linters
   3. Scaffold core data models and Room schema
