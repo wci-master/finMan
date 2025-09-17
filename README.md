@@ -133,7 +133,3 @@ We will use AI tools throughout the project to speed development, improve qualit
   1. Initialize Android Studio project (module + Gradle files) if not present
   2. Add CI workflow and linters
   3. Scaffold core data models and Room schema
-
----
-
-If you'd like, I can also scaffold the initial Android Studio project with Kotlin + Jetpack Compose and create the Gradle files, CI workflow, and a small sample screen. Tell me which part to do next.
