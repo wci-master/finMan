@@ -1,0 +1,7 @@
+Brief Report on Building FinMan
+
+While developing FinMan, I experienced both encouragements and challenges while leveraging AI tools throughout the process. One of the biggest advantages was the speed of development — AI made it possible to generate code snippets, suggest project structures, and resolve bugs much faster than doing everything manually. This reduced the time spent on repetitive tasks and allowed me to focus more on integrating features such as income and expense tracking, budgeting, and financial insights.
+
+However, the process also came with more challenges than I initially anticipated. A major hurdle was converting the project into an APK file for testing and deployment. I encountered multiple issues with environment variable settings, particularly in configuring the Android SDK and Java paths correctly. These setup errors slowed progress significantly and required repeated troubleshooting. Another challenge was switching between different AI models to get consistent and reliable outputs. Each model had varying strengths, and adjusting between them sometimes disrupted the workflow.
+
+Overall, the experience taught me the importance of environment setup, careful model selection, and persistence in troubleshooting. While AI provided efficiency, the challenges underscored the need for technical grounding and adaptability during app development.
